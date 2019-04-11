@@ -1,5 +1,5 @@
 # KafkaDemo
-SpringBoot and Kafka Integration
+SpringBoot and Kafka Integration : Use spring.initializer to create project.
 
 #Gradle Information
 plugins {
